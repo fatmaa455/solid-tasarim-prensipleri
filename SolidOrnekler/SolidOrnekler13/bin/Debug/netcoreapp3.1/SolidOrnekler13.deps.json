@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SolidOrnekler13/1.0.0": {
+        "runtime": {
+          "SolidOrnekler13.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SolidOrnekler13/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

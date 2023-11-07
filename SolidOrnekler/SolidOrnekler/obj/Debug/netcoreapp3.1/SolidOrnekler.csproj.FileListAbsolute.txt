@@ -1,0 +1,13 @@
+C:\Users\Fatma_Yazıcı\source\repos\SolidOrnekler\SolidOrnekler\bin\Debug\netcoreapp3.1\SolidOrnekler.exe
+C:\Users\Fatma_Yazıcı\source\repos\SolidOrnekler\SolidOrnekler\bin\Debug\netcoreapp3.1\SolidOrnekler.deps.json
+C:\Users\Fatma_Yazıcı\source\repos\SolidOrnekler\SolidOrnekler\bin\Debug\netcoreapp3.1\SolidOrnekler.runtimeconfig.json
+C:\Users\Fatma_Yazıcı\source\repos\SolidOrnekler\SolidOrnekler\bin\Debug\netcoreapp3.1\SolidOrnekler.runtimeconfig.dev.json
+C:\Users\Fatma_Yazıcı\source\repos\SolidOrnekler\SolidOrnekler\bin\Debug\netcoreapp3.1\SolidOrnekler.dll
+C:\Users\Fatma_Yazıcı\source\repos\SolidOrnekler\SolidOrnekler\bin\Debug\netcoreapp3.1\SolidOrnekler.pdb
+C:\Users\Fatma_Yazıcı\source\repos\SolidOrnekler\SolidOrnekler\obj\Debug\netcoreapp3.1\SolidOrnekler.csprojAssemblyReference.cache
+C:\Users\Fatma_Yazıcı\source\repos\SolidOrnekler\SolidOrnekler\obj\Debug\netcoreapp3.1\SolidOrnekler.AssemblyInfoInputs.cache
+C:\Users\Fatma_Yazıcı\source\repos\SolidOrnekler\SolidOrnekler\obj\Debug\netcoreapp3.1\SolidOrnekler.AssemblyInfo.cs
+C:\Users\Fatma_Yazıcı\source\repos\SolidOrnekler\SolidOrnekler\obj\Debug\netcoreapp3.1\SolidOrnekler.csproj.CoreCompileInputs.cache
+C:\Users\Fatma_Yazıcı\source\repos\SolidOrnekler\SolidOrnekler\obj\Debug\netcoreapp3.1\SolidOrnekler.dll
+C:\Users\Fatma_Yazıcı\source\repos\SolidOrnekler\SolidOrnekler\obj\Debug\netcoreapp3.1\SolidOrnekler.pdb
+C:\Users\Fatma_Yazıcı\source\repos\SolidOrnekler\SolidOrnekler\obj\Debug\netcoreapp3.1\SolidOrnekler.genruntimeconfig.cache

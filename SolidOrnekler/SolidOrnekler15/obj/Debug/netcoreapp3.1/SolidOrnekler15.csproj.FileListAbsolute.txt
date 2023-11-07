@@ -1,0 +1,12 @@
+C:\Users\Fatma_Yazıcı\source\repos\SolidOrnekler\SolidOrnekler15\bin\Debug\netcoreapp3.1\SolidOrnekler15.exe
+C:\Users\Fatma_Yazıcı\source\repos\SolidOrnekler\SolidOrnekler15\bin\Debug\netcoreapp3.1\SolidOrnekler15.deps.json
+C:\Users\Fatma_Yazıcı\source\repos\SolidOrnekler\SolidOrnekler15\bin\Debug\netcoreapp3.1\SolidOrnekler15.runtimeconfig.json
+C:\Users\Fatma_Yazıcı\source\repos\SolidOrnekler\SolidOrnekler15\bin\Debug\netcoreapp3.1\SolidOrnekler15.runtimeconfig.dev.json
+C:\Users\Fatma_Yazıcı\source\repos\SolidOrnekler\SolidOrnekler15\bin\Debug\netcoreapp3.1\SolidOrnekler15.dll
+C:\Users\Fatma_Yazıcı\source\repos\SolidOrnekler\SolidOrnekler15\bin\Debug\netcoreapp3.1\SolidOrnekler15.pdb
+C:\Users\Fatma_Yazıcı\source\repos\SolidOrnekler\SolidOrnekler15\obj\Debug\netcoreapp3.1\SolidOrnekler15.AssemblyInfoInputs.cache
+C:\Users\Fatma_Yazıcı\source\repos\SolidOrnekler\SolidOrnekler15\obj\Debug\netcoreapp3.1\SolidOrnekler15.AssemblyInfo.cs
+C:\Users\Fatma_Yazıcı\source\repos\SolidOrnekler\SolidOrnekler15\obj\Debug\netcoreapp3.1\SolidOrnekler15.csproj.CoreCompileInputs.cache
+C:\Users\Fatma_Yazıcı\source\repos\SolidOrnekler\SolidOrnekler15\obj\Debug\netcoreapp3.1\SolidOrnekler15.dll
+C:\Users\Fatma_Yazıcı\source\repos\SolidOrnekler\SolidOrnekler15\obj\Debug\netcoreapp3.1\SolidOrnekler15.pdb
+C:\Users\Fatma_Yazıcı\source\repos\SolidOrnekler\SolidOrnekler15\obj\Debug\netcoreapp3.1\SolidOrnekler15.genruntimeconfig.cache
